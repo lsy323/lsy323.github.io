@@ -1,0 +1,8 @@
+title: Lsy323.GitHub.io
+description: github pages test
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
